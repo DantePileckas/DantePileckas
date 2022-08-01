@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Dante 👋🤓
 
-<!--
-**DantePileckas/DantePileckas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# DANTE PILECKAS 
+#### FullStack Developer Jr, User experience analyst and Teacher	
+
+🙋‍♂️ I am 19 years old and I'm from Nueva Pompeya, Capital Federal (Arg).  
+🎓 I am a Systems Analyst student at ORT Argentina.  
+💼 Currently I work as a substitute computer science teacher at the secondary level at the San Antonio de Padua Institute.  
+ 
+ 
+ ## Contact
+ 👨‍💻 Check my [Portfolio](https://dantepileckas.github.io/home) where you will find information about my educational, work and personal experiences  
+ ‍💻Reach me on [Linkedin](https://www.linkedin.com/in/dante-pileckas-4b503b210/)  
