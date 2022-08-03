@@ -27,3 +27,7 @@
 ### UX
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="60" height="60"> | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" width="60" height="60"> | <img src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611129.png?token=exp=1659470941~hmac=346209fab575a553ec1f37a1866c768d" width="60" height="60"> | <img src="https://cdn-icons-png.flaticon.com/512/2991/2991110.png" width="60" height="60"> | <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" width="60" height="60"> | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="60" height="60">   
 |---|---|---|---|---|---|
+
+### Others
+| <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="60" height="60"> | <img src="https://authy.com/wp-content/uploads/npm-logo.png" width="60" height="60"> 
+|---|---|
