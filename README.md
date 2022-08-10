@@ -13,7 +13,7 @@
  ## Contact
  👨‍💻Check my [Portfolio](https://dantepileckas.github.io/home) where you will find information about my educational, work and personal experiences  
  ‍💻Reach me on [Linkedin](https://www.linkedin.com/in/dante-pileckas-4b503b210/)  
- 💡 review [the processes of my projects](https://www.behance.net/dantepileckas)  
+ 💡 Review [the processes of my projects](https://www.behance.net/dantepileckas)  
 
 
  ## Technical Skills
