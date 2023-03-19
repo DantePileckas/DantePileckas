@@ -7,7 +7,7 @@
 
 🙋‍♂️ I am 19 years old and I'm from Nueva Pompeya, Capital Federal (Arg).  
 🎓 I am a Systems Analyst student at ORT Argentina.  
-💼 I was a substitute computer science teacher at the secondary level at the San Antonio de Padua Institute.
+💼 I was a substitute computer science teacher at the secondary level at the San Antonio de Padua Institute.  
 💼 I am currently working as a chatbot implementation architect at Bleett  
  
  
